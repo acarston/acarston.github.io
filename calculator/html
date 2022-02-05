@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <p>calculator</p>
+    </head>
+
+    <body>
+        <h1>Welcome to CalCalc.</h1>
+        <h2>Select a calculator:</h2>
+        <ul>
+            <li>Basic</li>
+            <li>Derivative</li>
+            <li>Integral</li>
+            <li>Differential Equation</li>
+            <li>Slope Field</li>
+            <li>Vector Field</li>
+        </ul>
+    </body>
+</html>
