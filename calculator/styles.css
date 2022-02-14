@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+    font-variant: small-caps;
+    background-color: #222222;
+}
+
+.top {
+    text-align: center;
+    margin: 0;
+    background-color: #4FBEFF;
+    font-size: 200px;
+}
+
+.top h1 {
+    margin: 0;
+    letter-spacing: 50px;
+}
+
+.calculators {
+    display: flex;
+    padding-top: 5em;
+    justify-content: space-evenly;
+}
+
+.calculators h1 {
+    color: white;
+    margin: 0;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
